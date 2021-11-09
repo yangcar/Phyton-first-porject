@@ -1,14 +1,16 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 
-string_var = "clase de electiva de programacion"
-integer_var = 123
-float_var = 123.24
-print(string_var)
-print(type(string_var))
+sstring_var = "hola"
+string1_var = "mundo"
+num=2
+num1=5
+num2 = num+num1
+string2_var = string_var +" "+ string1_var
+print(string2_var)
+print(num)
+print(num1)
 
-print(integer_var)
-print(type(integer_var))
+print("la suma de los dos numeros es")
 
-print(float_var)
-print(type(float_var))
+print(num2)
